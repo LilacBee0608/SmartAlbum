@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">智能相册</string>
+    <string name="analyzing">分析中...</string>
+    <string name="not_analyzed">未分析</string>
+</resources>
